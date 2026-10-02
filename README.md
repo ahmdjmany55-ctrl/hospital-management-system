@@ -68,6 +68,56 @@
 - ✅ بيانات المريض والطبيب
 - ✅ قابلة للطباعة أو الحفظ كـ PDF
 
+
+## 📸 لقطات من المشروع
+
+### 🔐 صفحة تسجيل الدخول
+![تسجيل الدخول](screenshots/01-login.png)
+
+---
+
+### 🩺 لوحة الطبيب
+![لوحة الطبيب](screenshots/02-doctor-dashboard.png)
+
+---
+
+### 📋 تفاصيل الموعد
+![تفاصيل الموعد](screenshots/03-appointment-details.png)
+
+---
+
+### 🖨️ طباعة الوصفة الطبية
+![طباعة الوصفة](screenshots/04-prescription-print.png)
+
+---
+
+### 📊 لوحة المدير
+![لوحة المدير](screenshots/05-admin-dashboard.png)
+
+---
+
+### 🧑‍🦱 إدارة المرضى
+![إدارة المرضى](screenshots/06-patients-list.png)
+
+---
+
+### 📅 إدارة المواعيد
+![إدارة المواعيد](screenshots/07-appointments-list.png)
+
+---
+
+### 👨‍⚕️ إدارة الأطباء
+![إدارة الأطباء](screenshots/08-doctors-list.png)
+
+---
+
+<div align="center">
+
+⭐ **إذا أعجبك المشروع، لا تنسَ إضافة نجمة!** ⭐
+
+</div>
+
+
 ---
 
 ## 🛠 التقنيات المستخدمة
